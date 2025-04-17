@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @xB14CKx
 - 👀 I’m interested in Video Games, Japanese Culture and more.
-- 🌱 I’m currently learning Computer Hardware Skills and Computer Workflow skills.
+- 🌱 I’m currently learning Computer Hardware Skills and Computer Workflow skills..
+- 🌱 Main IDE/Editor right now is neovim with lazyvim setup (having fun with it)
 - 📫 How to reach me: xBLACKJONESx@gmail.com
 
 <!---
